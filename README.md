@@ -1,6 +1,6 @@
 # Backend CRUD
 
-Backend feito com o banco de dados MongoDB. 
+Backend feito em NodeJS e com o banco de dados MongoDB. 
 
 Criado para o teste.
 
